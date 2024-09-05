@@ -71,7 +71,7 @@ def send_emergency_numbers(contact_name):
     print("Emergency numbers sent.")
 
 # Example usage
-send_emergency_numbers("Geethapriya Mam")  # Replace with the name of the recipient
+send_emergency_numbers("Tharun")  # Replace with the name of the recipient
 
 # Clean up
 driver.quit()
